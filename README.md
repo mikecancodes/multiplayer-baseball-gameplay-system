@@ -1,4 +1,4 @@
-# Minecraft Baseball League
+# Multiplayer Baseball Gameplay System # 
 
 A custom Minecraft Bedrock baseball gameplay system built for a multiplayer league community of 200+ members.
 
