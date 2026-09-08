@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "cc:contact_bat",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "cc:contact_bat",
+      "minecraft:display_name": {
+        "value": "Contact Bat"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:swing_duration": 0.22,
+      "minecraft:damage": 6,
+      "minecraft:durability": {
+        "max_durability": 250
+      }
+    }
+  }
+}

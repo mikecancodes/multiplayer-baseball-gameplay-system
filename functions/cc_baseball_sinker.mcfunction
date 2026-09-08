@@ -1,0 +1,1 @@
+give @p cc:baseball_sinker

@@ -1,0 +1,56 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Baseball Test .034",
+		"description": "Baseball script test",
+		"uuid": "3c15c740-33c1-4e85-9c0e-8439c26207c1",
+		"version": [
+			2,
+			0,
+			4
+		],
+		"min_engine_version": [
+			1,
+			20,
+			80
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "f7d9b97a-d332-4339-93ab-566d4d79b3f8",
+			"version": [
+				2,
+				0,
+				4
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "e1b725a4-e470-494e-b895-18a01f1b2a48",
+			"version": [
+				2,
+				0,
+				4
+			],
+			"entry": "scripts/main.js"
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.13.0"
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	}
+}
